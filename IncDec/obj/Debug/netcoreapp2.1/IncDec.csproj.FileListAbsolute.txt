@@ -1,0 +1,11 @@
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\bin\Debug\netcoreapp2.1\IncDec.deps.json
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\bin\Debug\netcoreapp2.1\IncDec.runtimeconfig.json
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\bin\Debug\netcoreapp2.1\IncDec.runtimeconfig.dev.json
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\bin\Debug\netcoreapp2.1\IncDec.dll
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\bin\Debug\netcoreapp2.1\IncDec.pdb
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\obj\Debug\netcoreapp2.1\IncDec.csprojAssemblyReference.cache
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\obj\Debug\netcoreapp2.1\IncDec.csproj.CoreCompileInputs.cache
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\obj\Debug\netcoreapp2.1\IncDec.AssemblyInfoInputs.cache
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\obj\Debug\netcoreapp2.1\IncDec.AssemblyInfo.cs
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\obj\Debug\netcoreapp2.1\IncDec.dll
+C:\Users\André\Dropbox\ULHT\LP1\aula02\IncDec\obj\Debug\netcoreapp2.1\IncDec.pdb
