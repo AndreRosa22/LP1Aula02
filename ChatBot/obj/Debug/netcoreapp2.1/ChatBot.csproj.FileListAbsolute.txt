@@ -1,0 +1,11 @@
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\bin\Debug\netcoreapp2.1\ChatBot.deps.json
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\bin\Debug\netcoreapp2.1\ChatBot.runtimeconfig.json
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\bin\Debug\netcoreapp2.1\ChatBot.runtimeconfig.dev.json
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\bin\Debug\netcoreapp2.1\ChatBot.dll
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\bin\Debug\netcoreapp2.1\ChatBot.pdb
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\obj\Debug\netcoreapp2.1\ChatBot.csprojAssemblyReference.cache
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\obj\Debug\netcoreapp2.1\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\obj\Debug\netcoreapp2.1\ChatBot.AssemblyInfoInputs.cache
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\obj\Debug\netcoreapp2.1\ChatBot.AssemblyInfo.cs
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\obj\Debug\netcoreapp2.1\ChatBot.dll
+C:\Users\André\dropbox\ULHT\LP1\Aula02\ChatBot\obj\Debug\netcoreapp2.1\ChatBot.pdb
