@@ -1,0 +1,11 @@
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\obj\Debug\netcoreapp2.1\Cilindro.csprojAssemblyReference.cache
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\obj\Debug\netcoreapp2.1\Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\obj\Debug\netcoreapp2.1\Cilindro.AssemblyInfoInputs.cache
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\obj\Debug\netcoreapp2.1\Cilindro.AssemblyInfo.cs
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\bin\Debug\netcoreapp2.1\Cilindro.deps.json
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\bin\Debug\netcoreapp2.1\Cilindro.runtimeconfig.json
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\bin\Debug\netcoreapp2.1\Cilindro.runtimeconfig.dev.json
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\bin\Debug\netcoreapp2.1\Cilindro.dll
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\bin\Debug\netcoreapp2.1\Cilindro.pdb
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\obj\Debug\netcoreapp2.1\Cilindro.dll
+C:\Users\André\Dropbox\ULHT\LP1\aula02\Cilindro\obj\Debug\netcoreapp2.1\Cilindro.pdb
