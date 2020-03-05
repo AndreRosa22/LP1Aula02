@@ -1,0 +1,11 @@
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\obj\Debug\netcoreapp2.1\Piramide.csprojAssemblyReference.cache
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\obj\Debug\netcoreapp2.1\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\obj\Debug\netcoreapp2.1\Piramide.AssemblyInfoInputs.cache
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\obj\Debug\netcoreapp2.1\Piramide.AssemblyInfo.cs
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\bin\Debug\netcoreapp2.1\Piramide.deps.json
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\bin\Debug\netcoreapp2.1\Piramide.runtimeconfig.json
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\bin\Debug\netcoreapp2.1\Piramide.runtimeconfig.dev.json
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\bin\Debug\netcoreapp2.1\Piramide.dll
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\bin\Debug\netcoreapp2.1\Piramide.pdb
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\obj\Debug\netcoreapp2.1\Piramide.dll
+C:\Users\André\dropbox\ULHT\LP1\Aula02\Piramide\obj\Debug\netcoreapp2.1\Piramide.pdb
